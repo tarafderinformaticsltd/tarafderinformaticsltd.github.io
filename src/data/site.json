@@ -1,0 +1,65 @@
+{
+  "lang": "en",
+  "name": "Tarafder Informatics Ltd.",
+  "brand": { "accent": "Tarafder", "rest": "Informatics", "tagline": "VOLUNTEER ORGANIZATION" },
+  "logo": "logo.png",
+  "themeColor": "#f7fafa",
+  "keywords": "Tarafder Informatics, volunteer, complex engineering problem, CEP, concept visualization, entrepreneurship, Bangladesh",
+  "email": "",
+  "location": "Rangpur, Bangladesh",
+  "nav": [
+    { "key": "home", "label": "Home", "href": "/" },
+    { "key": "cep", "label": "CEP", "href": "/cep.html" },
+    { "key": "programs", "label": "Programs", "href": "/programs.html" },
+    { "key": "volunteer", "label": "Volunteer", "href": "/volunteer.html" },
+    { "key": "contact", "label": "Contact", "href": "/contact.html" }
+  ],
+  "cta": { "label": "Join as Volunteer", "href": "/contact.html" },
+  "menuLabel": "Menu",
+  "pages": {
+    "home": {
+      "title": "Tarafder Informatics Ltd. — Complex Engineering Problems, Concept Visualization & Entrepreneurship",
+      "description": "Tarafder Informatics Ltd. is a volunteer organization helping learners solve Complex Engineering Problems, visualize concepts and build entrepreneurial ventures."
+    },
+    "cep": {
+      "title": "Complex Engineering Problems (P1–P7) — Tarafder Informatics Ltd.",
+      "description": "Understand the seven attributes that make an engineering problem complex, with examples and volunteer guidance."
+    },
+    "programs": {
+      "title": "Programs — CEP Studio, Concept Visualizer, Venture Lab | Tarafder Informatics Ltd.",
+      "description": "Three volunteer-run programs: CEP Studio, Concept Visualizer and Venture Lab."
+    },
+    "volunteer": {
+      "title": "Volunteer With Us — Tarafder Informatics Ltd.",
+      "description": "How we work and why volunteering with Tarafder Informatics Ltd. grows your skills and your impact."
+    },
+    "contact": {
+      "title": "Contact & Join — Tarafder Informatics Ltd.",
+      "description": "Get in touch to volunteer, propose a project or ask about our programs."
+    }
+  },
+  "footer": {
+    "about": "A volunteer community for Complex Engineering Problems, Concept Visualization and Entrepreneurship.",
+    "columns": [
+      {
+        "title": "Explore",
+        "links": [
+          { "label": "Home", "href": "/" },
+          { "label": "CEP Framework", "href": "/cep.html" },
+          { "label": "Programs", "href": "/programs.html" }
+        ]
+      },
+      {
+        "title": "Community",
+        "links": [
+          { "label": "How We Work", "href": "/volunteer.html#process" },
+          { "label": "Why Volunteer", "href": "/volunteer.html#why" },
+          { "label": "Join Us", "href": "/contact.html" }
+        ]
+      },
+      { "title": "Based in", "text": ["Rangpur, Bangladesh"] }
+    ],
+    "copyright": "Tarafder Informatics Ltd. All rights reserved.",
+    "backToTop": "Back to top ↑"
+  }
+}

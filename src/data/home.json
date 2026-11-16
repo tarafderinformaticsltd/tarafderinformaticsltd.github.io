@@ -1,0 +1,78 @@
+{
+  "hero": {
+    "eyebrow": "Volunteer Organization · Bangladesh",
+    "headline": [
+      { "t": "We turn complex problems into " },
+      { "t": "clear ideas.", "grad": true }
+    ],
+    "lead": "Tarafder Informatics Ltd. is a community of volunteers who help learners and builders tackle Complex Engineering Problems, visualize difficult concepts, and grow ideas into real ventures.",
+    "ctas": [
+      { "label": "Become a Volunteer", "href": "/contact.html", "variant": "brand", "arrow": true },
+      { "label": "Explore Programs", "href": "/programs.html", "variant": "ghost" }
+    ],
+    "stats": [
+      { "value": "3", "label": "Focus pillars" },
+      { "value": "7", "label": "CEP attributes (P1–P7)" },
+      { "value": "100%", "label": "Volunteer-driven" }
+    ],
+    "chips": [
+      { "label": "CEP", "icon": "cog", "tone": "o", "pos": "fc1" },
+      { "label": "Visualize", "icon": "eye", "tone": "t", "pos": "fc2" },
+      { "label": "Venture", "icon": "rocket", "tone": "o", "pos": "fc3" },
+      { "label": "Volunteer", "icon": "check", "tone": "t", "pos": "fc4" }
+    ]
+  },
+  "marquee": {
+    "title": "What we care about",
+    "items": [
+      "Complex Engineering Problems",
+      "Concept Visualization",
+      "Entrepreneurship",
+      "Systems Thinking",
+      "Interactive Learning",
+      "Prototyping",
+      "Mentorship",
+      "Idea Validation",
+      "Open Collaboration"
+    ]
+  },
+  "focus": {
+    "eyebrow": "What we do",
+    "heading": [{ "t": "Three pillars. " }, { "t": "One community.", "grad": true }],
+    "text": "Problem solving, visual understanding and entrepreneurial action — taught, practiced and shared by volunteers who want to see others grow.",
+    "cards": [
+      {
+        "icon": "wrench",
+        "bg": "orange",
+        "blob": "o",
+        "title": "Complex Engineering Problems",
+        "text": "Guidance for framing, analysing and solving open-ended problems with conflicting requirements, many stakeholders and no single right answer.",
+        "tags": ["Problem framing", "Trade-offs", "Stakeholders", "Reports"],
+        "link": { "label": "Explore the CEP framework", "href": "/cep.html" }
+      },
+      {
+        "icon": "eye",
+        "bg": "teal",
+        "blob": "t",
+        "title": "Concept Visualization",
+        "text": "Abstract ideas become diagrams, animations and interactive explainers — so theory is something you can see, poke and truly understand.",
+        "tags": ["Diagrams", "Simulations", "Interactive", "Open learning"],
+        "link": { "label": "See the visualizer", "href": "/programs.html" }
+      },
+      {
+        "icon": "rocket",
+        "bg": "mix",
+        "blob": "o",
+        "title": "Entrepreneurship",
+        "text": "From a rough idea to a validated concept and a confident pitch — practical mentoring for first-time founders and student builders.",
+        "tags": ["Ideation", "Validation", "MVP", "Pitching"],
+        "link": { "label": "Meet the Venture Lab", "href": "/programs.html" }
+      }
+    ]
+  },
+  "band": {
+    "title": "Have a problem, an idea or time to give?",
+    "text": "Whether you want to learn, mentor or build — there is a place for you at Tarafder Informatics Ltd.",
+    "cta": { "label": "Get in touch", "href": "/contact.html" }
+  }
+}

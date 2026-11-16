@@ -1,0 +1,32 @@
+{
+  "process": {
+    "eyebrow": "How we work",
+    "heading": [{ "t": "A clear path from " }, { "t": "curiosity to impact.", "grad": true }],
+    "text": "A simple four-step rhythm that keeps volunteers and participants moving together.",
+    "steps": [
+      { "n": "01", "title": "Understand", "text": "We listen first — clarify the problem, the people involved and what success looks like." },
+      { "n": "02", "title": "Visualize", "text": "Ideas are mapped into diagrams and models so everyone sees the same picture." },
+      { "n": "03", "title": "Build", "text": "Small, testable steps — prototypes, analyses and drafts reviewed by peers and mentors." },
+      { "n": "04", "title": "Share & Grow", "text": "Results are presented, published openly and carried forward into the next idea." }
+    ]
+  },
+  "why": {
+    "eyebrow": "Why volunteer",
+    "heading": [{ "t": "A community that " }, { "t": "grows you back.", "grad": true }],
+    "text": "Volunteering here is more than giving time — it is a place to practice leadership, sharpen technical skill and build things that matter.",
+    "cta": { "label": "Apply to Volunteer", "href": "/contact.html" },
+    "items": [
+      { "icon": "pen", "bg": "orange", "title": "Real project experience", "text": "Work on genuine problems and ventures — material you can show in a portfolio or CV." },
+      { "icon": "users", "bg": "teal", "title": "Mentors & peers", "text": "Learn alongside people from different disciplines, and get honest, constructive feedback." },
+      { "icon": "star", "bg": "teal", "title": "Leadership roles", "text": "Lead a workshop, a program or a small team — responsibility grows with your initiative." },
+      { "icon": "globe", "bg": "orange", "title": "Open & accessible", "text": "Everything we make is shared openly so more learners can benefit." },
+      { "icon": "bolt", "bg": "orange", "title": "Flexible commitment", "text": "Contribute a few hours a week around your studies or work — no rigid schedules." },
+      { "icon": "shield", "bg": "teal", "title": "Recognition", "text": "Contributions are credited and acknowledged, and strong volunteers earn references." }
+    ]
+  },
+  "band": {
+    "title": "Have a problem, an idea or time to give?",
+    "text": "Whether you want to learn, mentor or build — there is a place for you at Tarafder Informatics Ltd.",
+    "cta": { "label": "Get in touch", "href": "/contact.html" }
+  }
+}

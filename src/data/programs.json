@@ -1,0 +1,46 @@
+{
+  "eyebrow": "Programs",
+  "heading": [{ "t": "Where volunteers " }, { "t": "make an impact.", "grad": true }],
+  "text": "Three hands-on programs run by the community. Join one, or help build them.",
+  "items": [
+    {
+      "kicker": "Program 01 · Problem Solving",
+      "title": "CEP Studio",
+      "text": "A guided space to break down a complex engineering problem, map it to the P1–P7 attributes and shape a clear, defensible solution.",
+      "bullets": [
+        "Problem framing and requirement mapping workshops",
+        "Peer review of analysis, reports and design trade-offs",
+        "Volunteer mentors from academia and industry"
+      ],
+      "tags": ["Workshops", "Mentoring", "Peer review"],
+      "cta": { "label": "Join CEP Studio", "href": "/contact.html?interest=CEP%20Studio" },
+      "visual": { "type": "tree", "bg": "a", "labels": ["Real Problem", "Constraints", "Stakeholders", "Analysis", "Solution"] }
+    },
+    {
+      "kicker": "Program 02 · Learning by Seeing",
+      "title": "Concept Visualizer",
+      "text": "Volunteers design and publish interactive explainers that make hard engineering and computing concepts intuitive — free for anyone to learn from.",
+      "bullets": [
+        "Interactive diagrams, animations and mini-simulations",
+        "Open, reusable explainers built with web technology",
+        "Design and coding sessions for first-time contributors"
+      ],
+      "tags": ["HTML · CSS · JS", "Design", "Open source"],
+      "cta": { "label": "Contribute a Visual", "href": "/contact.html?interest=Concept%20Visualizer" },
+      "visual": { "type": "dashboard", "bg": "c", "bars": [45, 80, 60, 95, 70, 52] }
+    },
+    {
+      "kicker": "Program 03 · Entrepreneurship",
+      "title": "Venture Lab",
+      "text": "Practical support for student and early-stage founders: test the idea, define the customer, build a lean prototype and tell the story.",
+      "bullets": [
+        "Idea validation and customer-discovery coaching",
+        "Lean MVP planning and basic business modeling",
+        "Pitch practice with feedback from volunteer mentors"
+      ],
+      "tags": ["Validation", "MVP", "Pitch"],
+      "cta": { "label": "Pitch Your Idea", "href": "/contact.html?interest=Venture%20Lab" },
+      "visual": { "type": "journey", "bg": "b", "labels": ["Idea", "Validate", "Build MVP", "Pitch", "Go"] }
+    }
+  ]
+}

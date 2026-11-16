@@ -1,0 +1,32 @@
+{
+  "eyebrow": "Let's connect",
+  "heading": [{ "t": "Ready to " }, { "t": "join or collaborate?", "grad": true }],
+  "text": "Tell us a little about yourself and what you would like to work on. We will reply with next steps.",
+  "info": {
+    "title": "Get in touch",
+    "text": "Reach out to volunteer, propose a project or ask about a program.",
+    "emailLabel": "Email",
+    "emailFallback": "Use the form →",
+    "locationLabel": "Location",
+    "audienceLabel": "Who can join",
+    "audience": "Students, professionals & founders",
+    "availability": "Open to new volunteers"
+  },
+  "form": {
+    "interestLabel": "I'm interested in…",
+    "interests": ["Volunteering", "CEP Studio", "Concept Visualizer", "Venture Lab", "Partnership"],
+    "fields": {
+      "name": { "label": "Name *", "placeholder": "Your full name" },
+      "email": { "label": "Email *", "placeholder": "you@example.com" },
+      "message": { "label": "Message *", "placeholder": "Tell us about your skills, idea or the problem you want to work on…" }
+    },
+    "submit": "Send Message",
+    "note": "Your information is kept confidential.",
+    "subjectPrefix": "Tarafder Informatics — ",
+    "messages": {
+      "invalid": "Please fill in your name, a valid email and a message.",
+      "noEmail": "Thanks! The organization's contact email has not been configured yet — set \"email\" in src/data/site.json.",
+      "opening": "Opening your email app… thank you for reaching out!"
+    }
+  }
+}
